@@ -4,6 +4,6 @@
   "versionName": "1.2",
   "releaseNotes": "Performance improvements.",
   "apkUrl": "https://github.com/Tombytee/RepoLens-App/releases/download/v1.1/RepoLens.apk",
-  "minSupportedVersionCode": 1,
+  "minSupportedVersionCode": 2,
   "forceUpdate": false
 }
