@@ -2,7 +2,7 @@
 "versionCode": 2,
 "versionName": "1.2.",
 "releaseNotes": "Improved scrolling performance, smoother repository browsing, and bug fixes.",
-"apkUrl": "YOUR_DIRECT_GITHUB_APK_URL",
+"apkUrl": "https://github.com/Tombytee/kaamkaaj/releases/download/v1.2.4/KaamKaaj_1.2.4.apk",
 "minSupportedVersionCode": 1,
 "forceUpdate": false,
 "sha256": "REPLACE_WITH_THE_REAL_SHA256_HASH"
